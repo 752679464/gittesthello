@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class controller {
 @RequestMapping("/hrhr")//访问http://localhost:6969/hrhr
     public String main(){
-        System.out.println("控制器888888888");
+        System.out.println("控制器7777777777");
         return "studyhtml" ;
     }
 }
